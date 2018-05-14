@@ -15,24 +15,24 @@
 <custom-element-demo>
   <template>
     <script src="../webcomponentsjs/webcomponents-lite.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/native-shim.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.element-polyfills.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.element.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.button.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.scrollbar.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.listbox.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.dropdownlist.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.tooltip.js"></script>
-    <script src="../smarthtmlelements-core/source-minified/smart.calendar.js"></script>
-    <link rel="stylesheet" href="../smarthtmlelements-core/source-minified/styles/smart.base.css" type="text/css" />
-    <link rel="stylesheet" href="../smarthtmlelements-core/source-minified/styles/smart.material.css" type="text/css" />
+    <script src="../smart-core/source-minified/native-shim.js"></script>
+    <script src="../smart-core/source-minified/smart.element-polyfills.js"></script>
+    <script src="../smart-core/source-minified/smart.element.js"></script>
+    <script src="../smart-core/source-minified/smart.button.js"></script>
+    <script src="../smart-core/source-minified/smart.scrollbar.js"></script>
+    <script src="../smart-core/source-minified/smart.listbox.js"></script>
+    <script src="../smart-core/source-minified/smart.dropdownlist.js"></script>
+    <script src="../smart-core/source-minified/smart.tooltip.js"></script>
+    <script src="../smart-core/source-minified/smart.calendar.js"></script>
+    <link rel="stylesheet" href="../smart-core/source-minified/styles/smart.base.css" type="text/css" />
+    <link rel="stylesheet" href="../smart-core/source-minified/styles/smart.material.css" type="text/css" />
      <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
 ```
 -->
 ```html
-<smart-calendar class="material">Click Me</smart-calendar>
+<smart-calendar class="material"></smart-calendar>
 ```
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-calendar/master/smart-calendar.gif" alt="Screenshot of smart-calendar, using the Material theme">](https://htmlelements.com/demos/calendar)
