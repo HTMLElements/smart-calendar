@@ -37,10 +37,10 @@
 	"calendar ui",
 	"calendar component",
 	"calendar control",
-  "datepicker",
-  "datepicker element",
-  "datepicker user interface",
-  "material datepicker",
-  "material calendar"
+ 	"datepicker",
+  	"datepicker element",
+  	"datepicker user interface",
+  	"material datepicker",
+  	"material calendar"
   ]
 }
