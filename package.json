@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-calendar",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Smart Calendar",
    "scripts": { 
   },
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22",
-	"@smarthtmlelements/smarthtmlelements-core": "^1.0.1"
+     "@smarthtmlelements/smart-core": "^1.0.1"
   },
   "main": "index.js",
   "directories": {},
