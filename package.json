@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-calendar",
-  "version": "1.0.11",
+  "version": "1.1.0",
   "description": "Smart Calendar",
    "scripts": { 
   },
@@ -9,7 +9,7 @@
     "url": "git+https://github.com/HTMLElements/smart-calendar.git"
   },
   "author": "Smart HTML Elements",
-  "license": "SEE LICENSE IN https://www.htmlelements.com/pricing/",
+  "license": "SEE LICENSE IN https://www.htmlelements.com/license/",
   "bugs": {
     "url": "https://github.com/HTMLElements/smart-calendar"
   },
